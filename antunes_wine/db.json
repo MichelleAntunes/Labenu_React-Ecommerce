@@ -3,7 +3,7 @@
     {
       "name": "Chardonnay Reserve",
       "slug": "Chardonnay Reserve",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/1407846/pexels-photo-1407846.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 10,
       "brand": "Acme Winery",
       "classification": "Rose",
@@ -15,7 +15,7 @@
     {
       "name": "Cabernet Sauvignon",
       "slug": "Cabernet Sauvignon",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/1479706/pexels-photo-1479706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 16,
       "brand": "Acme Winery",
       "classification": "Rose",
@@ -27,7 +27,7 @@
     {
       "name": "Pinot Noir",
       "slug": "Pinot Noir",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/9034871/pexels-photo-9034871.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 56,
       "brand": "Acme Winery",
       "classification": "Rose",
@@ -39,7 +39,7 @@
     {
       "name": "Chardonnay",
       "slug": "Chardonnay",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/12883027/pexels-photo-12883027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 36,
       "brand": "Mondavi",
       "classification": "Rose",
@@ -51,7 +51,7 @@
     {
       "name": "Sauvignon Blanc",
       "slug": "Sauvignon Blanc",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/15063476/pexels-photo-15063476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 6,
       "brand": "Cloudy Bay",
       "classification": "Rose",
@@ -63,7 +63,7 @@
     {
       "name": "Shiraz",
       "slug": "Shiraz",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/11431033/pexels-photo-11431033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 76,
       "brand": "Penfolds",
       "classification": "Rose",
@@ -75,7 +75,7 @@
     {
       "name": "Syrah",
       "slug": "Syrah",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/5877242/pexels-photo-5877242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 66,
       "brand": "Acme Winery",
       "classification": "Rose",
@@ -87,7 +87,7 @@
     {
       "name": "Merlot",
       "slug": "Merlot",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pluto_in_True_Color_-_High-Res.jpg/280px-Pluto_in_True_Color_-_High-Res.jpg",
+      "image": "https://images.pexels.com/photos/9950215/pexels-photo-9950215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "price": 29,
       "brand": "Acme Winery",
       "classification": "Rose",

@@ -30,9 +30,25 @@ function Body() {
     const filterProduct = {
       name: product.name,
       price: product.price,
+      quantity: 1,
     };
 
     setCart([...cart, filterProduct]);
+  };
+
+  const quantity = (product) => {
+    const productExisting = cart.find((item) => item.name === product.name);
+    if (productExisting) {
+      setCart(
+        cart.map((item) =>
+          item.name === product.name
+            ? { ...item, quantity: item.quantity }
+            : item
+        )
+      );
+    } else {
+      setCart([...cart, { ...product, quantity: 1 }]);
+    }
   };
   return (
     <BodyContainer>
@@ -48,6 +64,7 @@ function Body() {
         calcTotal={calcTotal}
         handleRemove={handleRemove}
         cart={cart}
+        quantity={quantity}
       />
 
       {produts

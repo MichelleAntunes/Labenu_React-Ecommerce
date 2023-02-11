@@ -9,6 +9,7 @@ export const HederContainer = styled.header`
   align-items: center;
   justify-content: space-between;
   padding: 1rem;
+  height: 5vh;
 `;
 
 export const DivHeader = styled.div`

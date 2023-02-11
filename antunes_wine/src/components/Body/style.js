@@ -2,8 +2,7 @@ import styled from "styled-components";
 
 export const BodyContainer = styled.div`
   color: #eee8dd;
-  height: 95vh;
-
+  height: 100vh;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;

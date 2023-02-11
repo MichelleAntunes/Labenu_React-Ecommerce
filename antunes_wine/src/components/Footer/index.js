@@ -1,7 +1,12 @@
 import React from "react";
+import { FooterContainer } from "./style";
 
 const Footer = () => {
-  return <h1> aqui é o footer</h1>;
+  return (
+    <FooterContainer>
+      <h1> Feito por: Michelle Antunes</h1>
+    </FooterContainer>
+  );
 };
 
 export default Footer;
